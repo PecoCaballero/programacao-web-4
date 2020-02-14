@@ -4,9 +4,7 @@ Anotações a respeito de PW4. Contempla Node.js
 
 ## Node.js
 
-
-
-### Aula 1
+Node.js é um servidor, não um framework
 
 Node.js executa código em uma única thread
 
