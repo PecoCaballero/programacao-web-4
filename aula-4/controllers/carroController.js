@@ -4,9 +4,9 @@ exports.lista_carros = (req, res) => {
 }
 
 exports.info_carro = (req, res) => {
-    resizeBy.send("ToDO: Inofrmacoes sobre o carro ID: " + req.params.id)
+    res.send("ToDO: Inofrmacoes sobre o carro ID: " + req.params.id)
 }
 
 exports.cadastra_carro = (req, res) => {
-    resizeBy.send("ToDO: Cadastrar o carro\n")
+    res.send("ToDO: Cadastrar o carro\n")
 }
