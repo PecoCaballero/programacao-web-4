@@ -1,0 +1,11 @@
+Estou responsavel por todas as features, end-to-end, relacionadas com o gerenciamentos de fluxos.
+O gerenciamento de fluxos engloba:
+    - Visualização dos fluxos
+    - Criação de fluxo
+    - Gerenciamento de fluxo
+        - Edição do fluxo
+        - deleção do fluxo
+        - Criação de cards
+        - Edição de cards
+        - deleção de cards
+O fluxo de telas do gerenciamento de fluxos pode ser acompanhado no whimsical (https://whimsical.com/FPwgcqBqr9727FnAkoWEd4).
